@@ -17,6 +17,8 @@
 
     <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
         Click me to display Date and Time.</button>
+    <button onClick="window.location.reload();">back</button>
+
     <p id="demo"></p>
 
 </body>
